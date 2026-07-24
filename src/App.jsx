@@ -47,7 +47,7 @@ function App() {
                 </section>section>
           
                 <footer className="footer">
-                        <p>&copy; 2026 Building Above Average</p
+                        <p>&copy; 2026 Building Above Average</p>
                 </footer>
           </div>
         );
